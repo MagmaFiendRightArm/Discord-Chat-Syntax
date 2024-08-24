@@ -2,6 +2,11 @@
 
 -- https://cdn.discordapp.com/attachments/123456789/987654321/file.exeILoveDick -- replace "file.exeILoveDick" with your desired text. will format as a download link
 
+-- this is some useless shit i came across.
+
+https://discοrd.com/
+
+
 -- clickable links
 [text](https://example.com)
 
