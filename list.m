@@ -83,3 +83,14 @@ _ _
 -- rainbow text (needs bot)
 ```css
 [rainbow text here]
+
+
+[ Click Here ](https://example.com)
+
+-- spoiler link
+||https://example.com||
+
+
+-- glitchy text
+z̸͓̭̫̗̠͉̿͛͊̈́̈́̕a̷̯̩̻̙̺̓̽̈́̈́̕l̶̨͓̱̩̘̈́̓͊̽͝g̸̝̺͚̻̠͛̓̈́͊̕o̵͚̻̺̙̠͛̽͊̓͝ text
+
