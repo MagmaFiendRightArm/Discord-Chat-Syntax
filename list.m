@@ -7,6 +7,10 @@
 https://discοrd.com/
 
 
+
+-- API endpoint manipulation: https://discord.com/api/v9/invites/vaGk4fYF (example)
+
+
 -- clickable links
 [text](https://example.com)
 
