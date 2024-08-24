@@ -1,5 +1,7 @@
 -- discord chat hacks
 
+-- https://cdn.discordapp.com/attachments/123456789/987654321/file.exeILoveDick -- replace "ILoveDick" with your desired text. will format as a download link
+
 -- clickable links
 [text](https://example.com)
 
