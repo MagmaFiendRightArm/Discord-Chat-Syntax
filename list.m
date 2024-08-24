@@ -1,0 +1,85 @@
+-- discord chat hacks
+
+-- clickable links
+[text](https://example.com)
+
+-- spoiler tag
+||spoiler text||
+
+-- codeblocks
+```code here```
+
+-- inline code
+`code`
+
+-- bold
+**bold**
+
+-- italic
+*italic*
+
+-- strikethrough
+~~strikethrough~~
+
+-- quote
+> quote
+
+-- multiline quote
+>>> multiline
+quote
+
+-- colored text (roles)
+<@&ROLE_ID>
+
+-- mention user
+<@USER_ID>
+
+-- channel link
+<#CHANNEL_ID>
+
+-- custom emoji
+<:emoji_name:emoji_id>
+
+-- animated emoji
+<a:emoji_name:emoji_id>
+
+-- timestamp
+<t:UNIX_TIMESTAMP>
+
+-- markdown table
+| col1 | col2 |
+|------|------|
+| data | data |
+
+-- invisible char
+|| ⠀ ||
+
+-- fake ping
+@everyone⠀
+
+-- underline
+__underline__
+
+-- combo formatting
+***bold italic***
+__*underline italic*__
+**__bold underline__**
+***__bold underline italic__***
+
+-- blockquote
+>>> this
+keeps
+going
+
+-- masked links
+[click me](https://example.com)
+
+-- embed suppression
+<>https://example.com<>
+
+-- blank message
+_ _
+
+-- rainbow text (needs bot)
+```css
+[rainbow text here]
