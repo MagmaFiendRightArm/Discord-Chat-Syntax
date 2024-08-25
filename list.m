@@ -8,7 +8,7 @@ https://discοrd.com/
 
 
 
--- API endpoint manipulation: https://discord.com/api/v9/invites/vaGk4fYF?with_counts=true&with_expiration=true (example) replace "vaGk4fYF" with ur invite code.
+-- API endpoint manipulation: https://discord.com/api/v9/invites/vaGk4fYF?with_counts=true&with_expiration=true (example) replace "vaGk4fYF" with ur invite code. Gets information on a server
 
 
 -- clickable links
